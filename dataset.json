@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant intelligence dataset for Hesperia, California. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Hesperia, California, US",
-  "export_job_id": "747263d3-7bee-4a3a-903f-d37b8d535e41",
+  "export_job_id": "16921f46-f6e5-4c1f-879a-5ec18b77ad69",
   "github_org": "Beamstation-Datasets",
   "id_short": 720147,
   "location_name": "Hesperia",
   "location_type": "city",
   "repo_name": "all-restaurants-in-hesperia-california-us-sample-720147",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/720147/beamstation_720147_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.79,
+  "sample_pct": 9.72,
   "sample_records": 14,
   "sample_sha256": "235ffe8cb12d3fea74e69718249d7a2316691ee60363289f8e83c89bce46235b",
   "sample_size_bytes": 53055,
-  "total_records": 143,
-  "updated_at": "2026-04-09T12:39:03.849975+00:00"
+  "total_records": 144,
+  "updated_at": "2026-04-16T12:37:58.357107+00:00"
 }
