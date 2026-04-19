@@ -9,9 +9,9 @@
 | Dataset ID | `720147` |
 | Location | Hesperia |
 | Category | Restaurants |
-| Full dataset size | 143 records |
-| Free sample size | 14 records (9.79%) |
-| Last export | 2026-04-09T12:39:03.849975+00:00 |
+| Full dataset size | 144 records |
+| Free sample size | 14 records (9.72%) |
+| Last export | 2026-04-16T12:37:58.357107+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hesperia-california-us-sample-720147/releases/download/sample-latest/beamstation_720147_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
