@@ -1,6 +1,6 @@
 # All Restaurants in Hesperia, California, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `720147` |
 | Location | Hesperia |
 | Category | Restaurants |
-| Full dataset size | 144 records |
-| Free sample size | 14 records (9.72%) |
-| Last export | 2026-04-16T12:37:58.357107+00:00 |
+| Full dataset size | 138 records |
+| Free sample size | 13 records (9.42%) |
+| Last export | 2026-04-23T11:57:45.369077+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hesperia-california-us-sample-720147/releases/download/sample-latest/beamstation_720147_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
