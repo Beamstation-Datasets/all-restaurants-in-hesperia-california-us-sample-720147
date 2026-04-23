@@ -1,12 +1,12 @@
 {
-  "export_job_id": "16921f46-f6e5-4c1f-879a-5ec18b77ad69",
+  "export_job_id": "68d551e3-e211-46cf-934d-a14eecabafc5",
   "id_short": 720147,
-  "published_at": "2026-04-19T19:17:12Z",
+  "published_at": "2026-04-23T19:36:52Z",
   "repo_name": "all-restaurants-in-hesperia-california-us-sample-720147",
   "sample_asset_name": "beamstation_720147_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/720147/beamstation_720147_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 14,
-  "sample_sha256": "235ffe8cb12d3fea74e69718249d7a2316691ee60363289f8e83c89bce46235b",
-  "sample_size_bytes": 53055,
-  "total_records": 144
+  "sample_records": 13,
+  "sample_sha256": "ce9d37e32e7033b9c788dd4d8160cd746c58ae1f74c3f6c266b70b6fde5c820f",
+  "sample_size_bytes": 61902,
+  "total_records": 138
 }
